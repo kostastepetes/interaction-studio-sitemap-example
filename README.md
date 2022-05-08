@@ -1,8 +1,9 @@
 # Interaction Studio Sitemap Example
 Ecommerce Example of a Sitemap for Salesforce Marketing Cloud Interaction Studio (now named MC Personalization). The script maps and captures data from a main domain, a subdomain and landing pages as well.
 
-- Main Domain
-- Staging Environment Domain
+- dataLayer Load
+- Main Domain Declaration
+- Staging Environment Domain Declaration
 - Secondary Domain
 - Utility Functions
 - dataLayer Utilities
